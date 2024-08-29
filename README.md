@@ -48,7 +48,7 @@ La página principal del portafolio presenta información personal y enlaces a p
 
 Para cualquier consulta o comentario, puedes contactar a Duván Camilo Arenas a través de:
 
-- **LinkedIn**: [Duván Camilo Arenas](www.linkedin.com/in/duvancarenasr)
+- **LinkedIn**: [Duván Camilo Arenas](https://www.linkedin.com/in/duvancarenasr/)
 - **GitHub**: [DuvanCamiloArenasRodriguez](https://github.com/DuvanCamiloArenasRodriguez)
 - **WhatsApp**: [Enviar mensaje](https://wa.me/+573194839199)
 - **Correo Electrónico**: [dccar21@gmail.com](mailto:dccar21@gmail.com)
