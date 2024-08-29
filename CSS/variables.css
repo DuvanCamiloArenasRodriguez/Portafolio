@@ -1,0 +1,10 @@
+:root {
+    --background-color: #ffffff;       /* Fondo */
+    --background-color-alt: #9DBDFF;   /* Fondo 2 */
+    --background-color-2: #9DBDFF; /* Fondo 3 */
+    --background-color-3: #83a8ed; /* Fondo 4 */
+    --heading-color: #1c3940;          /* Títulos y subtítulos */
+    --text-color: #1a1313;             /* Texto */
+    --light-color: rgba(255, 255, 255, 0.09); /* Color tenue de la luz */
+  }
+  
